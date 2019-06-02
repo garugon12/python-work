@@ -6,7 +6,7 @@
 세관의 항구 항만 수출입자료를 통해 2001년도부터 2018년도까지의 각 항구 항만별 수출입자료를 인덱싱하여 판다스로 출력해낸다.
 
 ## 사용한 공공데이터 
-[데이터보기](https://github.com/garugon12/python work/blob/master/%ED%95%AD%EA%B5%AC%ED%95%AD%EB%A7%8C%EC%88%98%EC%B6%9C%EC%9E%85%EC%8B%A4%EC%A0%81.csv)
+[데이터보기](https://github.com/garugon12/python-work/blob/master/%ED%95%AD%EA%B5%AC%ED%95%AD%EB%A7%8C%EC%88%98%EC%B6%9C%EC%9E%85%EC%8B%A4%EC%A0%81.csv)
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/garugon12/python-work/blob/master/%EA%B8%B0%EB%A7%90%EA%B3%BC%EC%A0%9C.py) 
